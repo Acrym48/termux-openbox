@@ -1,5 +1,5 @@
 apt update -y && apt upgrade -y
-apt install openbox wget tint2 fish -y
+apt install openbox wget tint2 fish xorg -y
 
 mkdir ~/.src
 cd ~/.src
